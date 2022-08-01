@@ -1,0 +1,10 @@
+cd
+mkdir
+add
+commit
+pull
+clone
+log
+reflog
+
+
